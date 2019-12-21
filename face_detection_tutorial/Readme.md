@@ -142,11 +142,11 @@ In the "face_detection_tutorial" directory you will see:
 
 * step_1\ - Tutorial Step 1: All files including Readme.md documentation
 
-* step_2\ - Tutorial Step 1: All files including Readme.md documentation
+* step_2\ - Tutorial Step 2: All files including Readme.md documentation
 
-* step_3\ - Tutorial Step 1: All files including Readme.md documentation
+* step_3\ - Tutorial Step 3: All files including Readme.md documentation
 
-* step_4\ - Tutorial Step 1: All files including Readme.md documentation
+* step_4\ - Tutorial Step 4: All files including Readme.md documentation
 
 * Readme.md - The top level of this tutorial (this page)
 
